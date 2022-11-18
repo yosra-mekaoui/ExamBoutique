@@ -15,6 +15,15 @@
 >Question 1:
 ![Q1](https://user-images.githubusercontent.com/61566287/202779508-a48765e8-23ad-4129-b205-380ba3a68637.png)
 
+>Question 2:
+![Q2](https://user-images.githubusercontent.com/61566287/202779710-9ecc9d16-c3e1-4d1b-83da-6d7fc6905e1d.png)
+>Question 3:
+![Q3](https://user-images.githubusercontent.com/61566287/202779812-4bc44e5d-cef6-45b7-8975-ebcfa9995fbb.png)
+>Question 3 avec autre methode :
+![Q3-methode2](https://user-images.githubusercontent.com/61566287/202779900-cd2626b6-7381-421c-95c8-f3ef69c634a6.png)
+
+
+
 
 
 
