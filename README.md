@@ -29,6 +29,9 @@
 ![Q5](https://user-images.githubusercontent.com/61566287/202780181-3f1bb272-cfd2-4a22-af9b-88f4ea08b696.png)
 >Question 6:
 ![Q6](https://user-images.githubusercontent.com/61566287/202780252-1a532c10-cc83-4cdc-9677-a978e942b430.png)
+>Question 7:
+![Q7](https://user-images.githubusercontent.com/61566287/202780341-94b1c157-27ac-45d0-8f72-2a80c0219ddb.png)
+
 
 
 
