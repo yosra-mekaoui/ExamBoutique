@@ -25,6 +25,12 @@
 ![Q4](https://user-images.githubusercontent.com/61566287/202780032-55384b21-52cf-4364-8c80-139d12b49483.png)
 >Question 4-1:
 ![Q4-1](https://user-images.githubusercontent.com/61566287/202780108-44a682bc-ac4d-4ce1-97c6-a0339ef94c25.png)
+>Question 5:
+![Q5](https://user-images.githubusercontent.com/61566287/202780181-3f1bb272-cfd2-4a22-af9b-88f4ea08b696.png)
+>Question 6:
+![Q6](https://user-images.githubusercontent.com/61566287/202780252-1a532c10-cc83-4cdc-9677-a978e942b430.png)
+
+
 
 
 
