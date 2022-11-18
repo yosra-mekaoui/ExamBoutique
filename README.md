@@ -8,8 +8,13 @@
 
 # Etapes:
 
-## 1-Créer les entités et les associations 
+## Créer les entités et les associations 
 ![DB](https://user-images.githubusercontent.com/61566287/202124081-7295354c-b9c9-48b7-99ff-a1ec700a0632.png)
+
+## Test Postman :
+>Question 1:
+![Q1](https://user-images.githubusercontent.com/61566287/202779508-a48765e8-23ad-4129-b205-380ba3a68637.png)
+
 
 
 
